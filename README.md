@@ -9,7 +9,7 @@
 - [NEC : 更好的CSS样式解决方案](http://nec.netease.com/)
 
 # 工作中用到的CSS框架
-- [http://www.bootcss.com/](Bootstrap中文网)
+- [Bootstrap](http://www.bootcss.com/)
 - [AdminLTE 2 | Dashboard](https://adminlte.io/themes/AdminLTE/index2.html)
 - [layuiAdmin pro](http://www.layui.com/admin/pro/#/)
 
