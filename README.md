@@ -11,5 +11,5 @@
 # 工作中用到的CSS框架
 - [Bootstrap](http://www.bootcss.com/)
 - [AdminLTE 2 | Dashboard](https://adminlte.io/themes/AdminLTE/index2.html)
-- [layuiAdmin pro](http://www.layui.com/admin/pro/#/)
+- [layui](http://www.layui.com/)
 
