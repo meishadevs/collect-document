@@ -14,3 +14,8 @@
 - [AdminLTE 2 | Dashboard](https://adminlte.io/themes/AdminLTE/index2.html)
 - [layui](http://www.layui.com/)
 
+# 工作中用到的参考资料
+- [大屏做成这样，领导不重用你都难！](https://zhuanlan.zhihu.com/p/28557620)
+- [2018小结--一大波数据可视化大屏来袭](http://www.zcool.com.cn/work/ZMjcwNjcxMzY=.html)
+- [大屏数据可视化](http://www.zcool.com.cn/search/content?&word=%E5%A4%A7%E5%B1%8F%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96)
+
