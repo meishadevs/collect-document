@@ -9,10 +9,11 @@
 - [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/index.html)
 - [NEC : 更好的CSS样式解决方案](http://nec.netease.com/)
 
-# 工作中用到的CSS框架
+# 工作中用到的框架
 - [Bootstrap](http://www.bootcss.com/)
 - [AdminLTE 2 | Dashboard](https://adminlte.io/themes/AdminLTE/index2.html)
 - [layui](http://www.layui.com/)
+- [ECharts](http://echarts.baidu.com/)
 
 # 工作中用到的参考资料
 - [大屏做成这样，领导不重用你都难！](https://zhuanlan.zhihu.com/p/28557620)
