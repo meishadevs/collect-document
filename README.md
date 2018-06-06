@@ -8,6 +8,7 @@
 - [最新手机号码正则表达式](http://www.jianshu.com/p/e8477fdccbe9)
 - [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/index.html)
 - [NEC : 更好的CSS样式解决方案](http://nec.netease.com/)
+- [我现在在一个公司做前端开发]()
 
 # 工作中用到的框架
 - [Bootstrap](http://www.bootcss.com/)
