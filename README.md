@@ -25,4 +25,9 @@
 
 # 在线工具
 - [JSON在线格式化工具](https://www.json.cn)
+- [在线代码格式化工具](http://tool.oschina.net/codeformat/json)
+- [RGB颜色与16位进制颜色码转换工具](http://www.sioe.cn/yingyong/yanse-rgb-16/)
+- [Unicode在线转换工具](http://tool.chinaz.com/tools/unicode.aspx)
+- [图片压缩工具](https://tinypng.com)
+- [将图片转换成PNG或者ICON格式](https://converticon.com)
 
