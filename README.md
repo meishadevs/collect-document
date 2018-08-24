@@ -16,6 +16,7 @@
 - [layui](http://www.layui.com/)
 - [ECharts](http://echarts.baidu.com/)
 - [gojs](https://gojs.net/latest/index.html)
+- [WeUI](https://github.com/Tencent/weui-wxss)
 
 # 工作中用到的参考资料
 - [大屏做成这样，领导不重用你都难！](https://zhuanlan.zhihu.com/p/28557620)
