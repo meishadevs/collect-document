@@ -17,6 +17,7 @@
 - [ECharts](http://echarts.baidu.com/)
 - [gojs](https://gojs.net/latest/index.html)
 - [WeUI](https://github.com/Tencent/weui-wxss)
+- [阿里图标](http://www.iconfont.cn/)
 
 # 工作中用到的参考资料
 - [大屏做成这样，领导不重用你都难！](https://zhuanlan.zhihu.com/p/28557620)
