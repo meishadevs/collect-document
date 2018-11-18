@@ -25,6 +25,7 @@
 - [大屏数据可视化](http://www.zcool.com.cn/search/content?&word=%E5%A4%A7%E5%B1%8F%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96)
 - [GoJS绘图基础探索笔记](https://www.jianshu.com/p/f91fbf085574)
 - [ECharts Demo](http://echarts.baidu.com/examples/)
+- [韦夏日_深圳网页设计师|深圳UI设计师_68Design](http://www.68design.net/u/175317/)
 
 # 在线工具
 - [JSON在线格式化工具](https://www.json.cn)
