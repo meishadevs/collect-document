@@ -16,6 +16,8 @@
 - [layui](http://www.layui.com/)
 - [ECharts](http://echarts.baidu.com/)
 - [gojs](https://gojs.net/latest/index.html)
+- [WeUI](https://github.com/Tencent/weui-wxss)
+- [阿里图标](http://www.iconfont.cn/)
 
 # 工作中用到的参考资料
 - [大屏做成这样，领导不重用你都难！](https://zhuanlan.zhihu.com/p/28557620)
@@ -36,4 +38,13 @@
 - [Spring MVC参考资料](https://zzk.cnblogs.com/s?w=blog%3Abest%20Spring%20MVC%20%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93)
 - [IntelliJ IDEA 创建 hello world Java web Maven项目从头到尾都有图有真相2017版本](https://blog.csdn.net/qq_27093465/article/details/63683873)
 - [IntelliJ IDEA使用教程 （总目录篇）](https://blog.csdn.net/qq_27093465/article/details/77449117)
+
+# 工具
+- [从0开始学习GitHub](http://meishadevs.com/front-end-document/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0+GitHub.pdf)
+
+# 同事的博客
+- [weixiari](http://www.68design.net/u/175317/)
+- [fuyong](http://blog.fuyong.me/)
+- [_Ethan](https://blog.csdn.net/yuzifen)
+- [meishadevs](http://meishadevs.coding.me/)
 
