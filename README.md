@@ -9,7 +9,7 @@
 - [NEC : 更好的CSS样式解决方案](http://nec.netease.com/)
 - [京东2016版首页改版前端总结](http://diao.li/)
 
-# 工作中用到的框架
+# 前端开发参考资料
 - [Bootstrap](http://www.bootcss.com/)
 - [AdminLTE 2 | Dashboard](https://adminlte.io/themes/AdminLTE/index2.html)
 - [layui](http://www.layui.com/)
@@ -17,6 +17,7 @@
 - [gojs](https://gojs.net/latest/index.html)
 - [WeUI](https://github.com/Tencent/weui-wxss)
 - [阿里图标](http://www.iconfont.cn/)
+- [better-scroll](https://ustbhuangyi.github.io/better-scroll/doc/zh-hans/#better-scroll%20%E6%98%AF%E4%BB%80%E4%B9%88)
 
 # 工作中用到的参考资料
 - [大屏做成这样，领导不重用你都难！](https://zhuanlan.zhihu.com/p/28557620)
