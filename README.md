@@ -19,6 +19,13 @@
 - [阿里图标](http://www.iconfont.cn/)
 - [better-scroll](https://ustbhuangyi.github.io/better-scroll/doc/zh-hans/#better-scroll%20%E6%98%AF%E4%BB%80%E4%B9%88)
 
+# 后端开发参考资料
+- [Spring MVC参考资料](https://zzk.cnblogs.com/s?w=blog%3Abest%20Spring%20MVC%20%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93)
+- [IntelliJ IDEA 创建 hello world Java web Maven项目从头到尾都有图有真相2017版本](https://blog.csdn.net/qq_27093465/article/details/63683873)
+- [IntelliJ IDEA使用教程 （总目录篇）](https://blog.csdn.net/qq_27093465/article/details/77449117)
+- [Spring Boot、Spring Cloud、Java](http://www.ityouknow.com)
+- [MyBatis-Plus](https://mp.baomidou.com/)
+
 # 工作中用到的参考资料
 - [大屏做成这样，领导不重用你都难！](https://zhuanlan.zhihu.com/p/28557620)
 - [2018小结--一大波数据可视化大屏来袭](http://www.zcool.com.cn/work/ZMjcwNjcxMzY=.html)
@@ -34,16 +41,6 @@
 - [图片压缩工具](https://tinypng.com)
 - [将图片转换成PNG或者ICON格式](https://converticon.com)
 - [获得键盘上按键的keyCode](http://keycode.info/)
-
-# 后端开发参考资料
-- [Spring MVC参考资料](https://zzk.cnblogs.com/s?w=blog%3Abest%20Spring%20MVC%20%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93)
-- [IntelliJ IDEA 创建 hello world Java web Maven项目从头到尾都有图有真相2017版本](https://blog.csdn.net/qq_27093465/article/details/63683873)
-- [IntelliJ IDEA使用教程 （总目录篇）](https://blog.csdn.net/qq_27093465/article/details/77449117)
-- [Spring Boot、Spring Cloud、Java](http://www.ityouknow.com)
-- [MyBatis-Plus](https://mp.baomidou.com/)
-
-# 工具
-- [从0开始学习GitHub](http://meishadevs.com/front-end-document/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0+GitHub.pdf)
 
 # 同事的博客
 - [weixiari](http://www.68design.net/u/175317/)
