@@ -23,7 +23,7 @@
 - [Spring MVC参考资料](https://zzk.cnblogs.com/s?w=blog%3Abest%20Spring%20MVC%20%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93)
 - [IntelliJ IDEA使用教程 （总目录篇）](https://blog.csdn.net/qq_27093465/article/details/77449117)
 - [Spring Boot、Spring Cloud、Java](http://www.ityouknow.com)
-- [MyBatis-Plus](https://mp.baomidou.com/)
+- [MyBatis-Plus](https://mp.baomidou.com/) 
 — [通过游戏学习Git](https://learngitbranching.js.org/)
 
 # 工作中用到的参考资料
