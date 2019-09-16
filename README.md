@@ -25,6 +25,7 @@
 - [Spring Boot、Spring Cloud、Java](http://www.ityouknow.com)
 - [MyBatis-Plus](https://mp.baomidou.com/)
 - [通过游戏学习Git](https://learngitbranching.js.org/)
+- [Mac配置php开发环境](https://www.jianshu.com/p/4495dfb2c963)
 
 # 工作中用到的参考资料
 - [大屏做成这样，领导不重用你都难！](https://zhuanlan.zhihu.com/p/28557620)
