@@ -1,5 +1,4 @@
-# front-end-document
-收集的一些前端相关的资料
+# 前端资料
 
 - [JavaScript 教程 - 网道](https://wangdoc.com/javascript/index.html)
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/) 
