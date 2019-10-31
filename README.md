@@ -17,7 +17,6 @@
 - [WeUI](https://github.com/Tencent/weui-wxss)
 - [阿里图标](http://www.iconfont.cn/)
 - [better-scroll](https://ustbhuangyi.github.io/better-scroll/doc/zh-hans/#better-scroll%20%E6%98%AF%E4%BB%80%E4%B9%88)
-- [你可能不知道的可编辑表格与表格验证](https://dev.iviewui.com/articles/1040179759335739392)
 
 # 后端开发参考资料
 - [Spring MVC参考资料](https://zzk.cnblogs.com/s?w=blog%3Abest%20Spring%20MVC%20%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93)
@@ -33,6 +32,7 @@
 - [大屏数据可视化](http://www.zcool.com.cn/search/content?&word=%E5%A4%A7%E5%B1%8F%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96)
 - [GoJS绘图基础探索笔记](https://www.jianshu.com/p/f91fbf085574)
 - [ECharts Demo](http://echarts.baidu.com/examples/)
+- [你可能不知道的可编辑表格与表格验证](https://dev.iviewui.com/articles/1040179759335739392)
 
 # 在线工具
 - [JSON在线格式化工具](https://www.json.cn)
